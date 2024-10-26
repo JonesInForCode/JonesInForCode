@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a diverse career history, from food service, Operations Management, and Workplace Safety to Interactive Media Design and Web Development.
 # 📚 Current Projects: 
-- I am currently learning new skills on https://hyperskill.org/ on the Java Full Stack Developer Study Path and I have a 15 day streak as of 10/01/24!
+- I am currently learning new skills on https://hyperskill.org/ on the Java Full Stack Developer Study Path and I have a 40 day streak as of 10/26/24!
 - Check out my most recent portfolio project! https://interactive-comment-component.netlify.app/
 
 <!---
