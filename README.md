@@ -14,7 +14,7 @@
 - https://app.netlify.com/sites/melodic-truffle-99a86a/
 - https://app.netlify.com/sites/splendid-sfogliatella-7db6b5/
 - https://app.netlify.com/sites/luxury-salamander-45da2c/
-# 📚 Current Projects: 
+# 📚 Recent Projects: 
 - https://interactive-comment-component.netlify.app/
 - https://github.com/JonesInForCode/hyperskill-TransactionAggregator
 - https://github.com/JonesInForCode/WebCalendarBackend
