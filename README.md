@@ -6,6 +6,14 @@
 - 📫 How to reach me: contact@jonesinforcode.dev | https://www.linkedin.com/in/nicolas-jones-0930b6177/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a diverse career history, from food service, Operations Management, and Workplace Safety to Interactive Media Design and Web Development.
+# Live Sites:
+- https://app.netlify.com/sites/interactive-comment-component/
+- https://app.netlify.com/sites/preeminent-babka-e23807/
+- https://app.netlify.com/sites/cozy-stardust-5f98a1/
+- https://app.netlify.com/sites/iridescent-fenglisu-30c964/
+- https://app.netlify.com/sites/melodic-truffle-99a86a/
+- https://app.netlify.com/sites/splendid-sfogliatella-7db6b5/
+- https://app.netlify.com/sites/luxury-salamander-45da2c/
 # 📚 Current Projects: 
 - https://interactive-comment-component.netlify.app/
 - https://github.com/JonesInForCode/hyperskill-TransactionAggregator
