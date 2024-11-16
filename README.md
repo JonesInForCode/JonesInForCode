@@ -7,13 +7,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a diverse career history, from food service, Operations Management, and Workplace Safety to Interactive Media Design and Web Development.
 # Live Sites:
-- https://app.netlify.com/sites/interactive-comment-component/
-- https://app.netlify.com/sites/preeminent-babka-e23807/
-- https://app.netlify.com/sites/cozy-stardust-5f98a1/
-- https://app.netlify.com/sites/iridescent-fenglisu-30c964/
-- https://app.netlify.com/sites/melodic-truffle-99a86a/
-- https://app.netlify.com/sites/splendid-sfogliatella-7db6b5/
-- https://app.netlify.com/sites/luxury-salamander-45da2c/
+- https://interactive-comment-component.netlify.app/
+- https://jonesinforcode.dev/
+- https://cozy-stardust-5f98a1.netlify.app/
+- https://iridescent-fenglisu-30c964.netlify.app/
+- https://melodic-truffle-99a86a.netlify.app/
+- https://splendid-sfogliatella-7db6b5.netlify.app/
+- https://luxury-salamander-45da2c.netlify.app/
 # 📚 Recent Projects: 
 - https://interactive-comment-component.netlify.app/
 - https://github.com/JonesInForCode/hyperskill-TransactionAggregator
