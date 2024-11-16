@@ -14,13 +14,19 @@
 - https://melodic-truffle-99a86a.netlify.app/
 - https://splendid-sfogliatella-7db6b5.netlify.app/
 - https://luxury-salamander-45da2c.netlify.app/
-# 📚 Recent Projects: 
-- https://interactive-comment-component.netlify.app/
-- https://github.com/JonesInForCode/hyperskill-TransactionAggregator
-- https://github.com/JonesInForCode/WebCalendarBackend
+# 📚 Recent Projects:
+- https://github.com/JonesInForCode/interactive-comment-component
 - https://github.com/JonesInForCode/loafer-portfolio
 - https://github.com/JonesInForCode/comment-server
+- https://github.com/JonesInForCode/DOS-Clone-Portfolio-Site
+- https://github.com/JonesInForCode/Real-Time-Chat
+- https://github.com/JonesInForCode/Color-Scheme-Generator
 - https://github.com/JonesInForCode/QRCodeService
+- https://github.com/JonesInForCode/newsletter-signup
+- https://github.com/JonesInForCode/hyperskill-TransactionAggregator
+- https://github.com/JonesInForCode/WebCalendarBackend
+- https://github.com/JonesInForCode/CodeSnippet-WebService
+- https://github.com/JonesInForCode/newsletter-signup-form
 
 
 <!---
